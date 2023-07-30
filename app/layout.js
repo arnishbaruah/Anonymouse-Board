@@ -1,4 +1,5 @@
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
   title: "Anonymouse Board",
@@ -11,6 +12,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className="px-4 py-2 text-gray-800 lg:px-8 lg:py-8 font-poppins">
         {children}
+        <Analytics />
       </body>
     </html>
   );
