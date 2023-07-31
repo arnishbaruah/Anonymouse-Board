@@ -1,4 +1,4 @@
-# Anonymouse Board
+# Anonymouse Board 
 
 ![Anonymouse Board Logo](/app/favicon.ico)
 
@@ -14,7 +14,7 @@ The [Anonymouse Board](https://anonymouseboard.vercel.app) is a anonymous platfo
 - [License](#license)
 - [Contact](#contact)
 
-## Features
+## Features 🎯
 
 Key Features of Anonymouse Board:
 - **🔒 Anonymity:** Feel free to express yourself without revealing your identity. Anonymouse Board ensures that your privacy is protected, giving you the confidence to share openly and honestly.
@@ -25,7 +25,7 @@ Key Features of Anonymouse Board:
 ![image](https://github.com/arnishbaruah/anonymouse-board/assets/89624454/5d12e121-2461-4527-b586-6f7469fa7eff)
 ![image](https://github.com/arnishbaruah/anonymouse-board/assets/89624454/d5fa6405-b173-4ccf-b984-da06eae0f1ed)
 
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ Before running Anonymouse Board, make sure you have the following installed:
    
 You can start editing the page by modifying app/page.js. The page auto-updates as you edit the file.
 
-## Contributing
+## Contributing 🤝
 We welcome contributions from the community to make Anonymouse Board even better! If you're a developer, designer, or have any other expertise, follow these steps to contribute:
 
 1. Fork the repository to your GitHub account.
@@ -75,11 +75,11 @@ We welcome contributions from the community to make Anonymouse Board even better
 
 We'll review your contribution and work together to integrate it into the project.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/license/MIT/).
-
-## Contact
-Have questions or feedback? Feel free to reach out to us:
+## License 📄
+This project is licensed under the [MIT License](https://github.com/arnishbaruah/anonymouse-board/blob/main/LICENSE).
+ 
+## Contact 📧
+Have questions or feedback? Feel free to reach out:
 
 LinkedIn: [Arnish Baruah](https://www.linkedin.com/in/arnishbaruah/)
 
