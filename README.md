@@ -39,7 +39,7 @@ Before running Anonymouse Board, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/anonymouse-board.git
+   git clone https://github.com/arnishbaruah/anonymouse-board.git
    ```  
 
 2. Change into the project directory:
